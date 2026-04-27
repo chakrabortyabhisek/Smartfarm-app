@@ -31,9 +31,6 @@ This is an Android app for monitoring weather and soil conditions in smart farmi
 - Coroutines and Flow for asynchronous operations
 - Jetpack Compose for UI
 
-## API Keys
-
-Replace "your_api_key" and "your_key" with actual API keys in the code.
 
 ## Firebase Setup
 
